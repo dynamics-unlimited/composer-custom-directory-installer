@@ -1,13 +1,12 @@
 {
-    "name": "mnsami/composer-custom-directory-installer",
+    "name": "dynamics-unlimited/composer-custom-directory-installer",
     "type": "composer-plugin",
-    "description": "A composer plugin, to help install packages of different types in custom paths.",
+    "description": "(forked from mnsami/composer-custom-directory-installer) A composer plugin, to help install packages of different types in custom paths.",
     "license": "MIT",
     "keywords": ["composer", "composer-plugin", "composer-installer"],
     "authors": [
         {
-            "name": "Mina Nabil Sami",
-            "email": "mina.nsami@gmail.com"
+            "name": "Nicolas GIROD"
         }
     ],
     "minimum-stability": "stable",
